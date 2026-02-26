@@ -1,22 +1,22 @@
 ## About Me
 
-I wanted to work in TAC at Cisco when I took my first netacad course in 1999. I was a Sophomore in Highschool. I lived in poverty and couldn't imagine working on anything as nice as a functional network.
+I first heard about TAC in high-school. I grew up in poverty and Cisco was doing the Netacad program. Outreach. To me TAC was something mythical — a place where smart people worked on hard problems. 
 
-My mom got me my first computer at age 15. It was a Gateway 2000 machine that broke all the time, so I spent hours talking to tech support. Eventually I stopped needing to call in.
+Life is hard on the poor and undiagnosed. My parents divorced, I dropped out, to support my mom and work at Wal-Mart.
 
-The poverty thing doesn't go away. I won't be diagnosed with ADHD for another 30 years. I'm not even going to find out my gender is female, for another 20 years.
+Getting into IT was hard. It took me nine years to finish my bachelors degree. Hard because of undiagnosed ADHD, CPTSD, and gender dysphoria.
 
-My first wife puts me through college, that was tremendous, and I do get my dream job at Cisco, I'm finally an Engineer, not just a tech.
+With spouse help, I do finish college, get my first career job and finally access to mental health support.
 
-I named myself Ariadne, because fundamentally, I wanted to convey my ability others to navigate complex problems. *I love and adore troubleshooting.*
+Why is any of this relevant? Well ... CPTSD results in hyper-vigilance, the ability to detect signals in the faintest of noise. My internal identity is customer support, finding and troubleshooting problems.
 
-I have two other related websites.
+I picked the name Ariadne so others would know immediately, I'm well suited to labyrinthine problems. I love this stuff.
 
-[sitwithariadne.com](https://sitwithariadne.com) - This is for meditation oriented advice ... it's CC0 ... public domain.
+[sitwithariadne.com](https://sitwithariadne.com) - This is for meditation and mindfulness peer-support ... the license is CC0, public domain.
 
-[dbtwithariadne.com](https://dbtwithariadne.com) - This is for DBT - Dialectical Behavioral Therapy. I use these materials to prevent deaths.
+[dbtwithariadne.com](https://dbtwithariadne.com) - This is for DBT - Dialectical Behavioral Therapy. peer-support. I use these materials to prevent deaths, this is also CC0, public domain, so therapists can re-purpose it for their clients.
 
-In my free time I do ... support for people trying to get their CCNAs online, Mermaid, or fix their 3D printers.
+In my free time I do ... more customer service stuff, just for different things: meditation, mental-health, 3D printers, freediving, and of course ... networking.
 
 ## Jobs
 
@@ -38,10 +38,9 @@ Nov 2025 – Mar 2026
 
 Remote
 
-Technical support for public sector networks in the US and worldwide, with emphasis on Wireless technologies, specifically the C9800 WLC.
+Description: Provided Tier 3 technical support for public sector and enterprise wireless networks across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, handling P1 through P3 cases — including network-down situations — with direct escalation paths to engineering.
 
-Keywords: Catalyst 9800 WLC, C9800-L, C9800-40, C9800-80, C9800-CL (cloud), High Availability/SSO, N+1, rolling AP upgrade, ISSU, FlexConnect, Local mode, Monitor mode, SE-Connect, site tags/policy tags/RF tags, profiles, RRM, DCA, CleanAir, 
-802.1X, ISE integration, OFDMA, 6GHz band, dual 5GHz, Flexible Radio Assignment (FRA).
+Specialized in the Catalyst 9800 WLC platform across all form factors — C9800-L, C9800-40, C9800-80, and C9800-CL — with hands-on experience in High Availability/SSO, N+1 redundancy, ISSU, and rolling AP upgrades. Troubleshot complex deployments spanning FlexConnect, Local mode, Monitor mode, and SE-Connect, including site, policy, and RF tag architecture, RRM, DCA, and CleanAir. Supported 802.1X and ISE integrations, OFDMA, 6 GHz band deployments, dual 5 GHz configurations, and Flexible Radio Assignment.
 
 ### After Hours TCE - Cisco
 
@@ -53,7 +52,7 @@ Nov 2024 - Nov 2025
 
 Remote
 
-One of two people tasked with supporting HTTS customers from 12:30AM to 8:30 AM ... for all products Cisco offered.
+Description: One of two engineers providing Tier 3 technical support across the full Cisco portfolio for public sector and enterprise customers in the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions on the after-hours shift, handling only high-severity cases — including network-down situations — while collaborating with global TAC teams and maintaining direct escalation paths to engineering.
 
 ### Route/Switch TCE - Cisco
 
@@ -67,7 +66,8 @@ Remote
 
 Supporting HTTS customers for route/switch. Getting up-to-speed to work the after hours shift.
 
-Keywords: Catalyst 9000, IOS-XE C9200, C9300, C9400, C9500, C9600, StackWise, StackWise Virtual, UADP ASIC.
+Description: Provided Tier 3 technical support for public sector and enterprise switching networks across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, handling P1 through P3 cases — including network-down situations — with direct escalation paths to engineering.
+Deep hands-on expertise with the Catalyst 9000 switching platform across all form factors (C9200, C9300, C9400, C9500, C9600), including StackWise and StackWise Virtual high availability deployments. Troubleshot complex IOS-XE environments spanning hardware and software faults, UADP ASIC behavior, and enterprise campus network architectures.
 
 ### Network Engineer - Bank of America
 
@@ -79,7 +79,8 @@ Feb 2021 – May 2024
 
 Remote
 
-Contract work on Bank of America's core network. Primarily ASR9Ks, providing core connectivity to all sites worldwide.
+Description: Provided network engineering support for Bank of America's global core network infrastructure, operating within a high-stakes environment where network availability and change accuracy were the highest priorities. Executed maintenance operations on ASR 9000 series routers providing core connectivity to all Bank of America sites worldwide, with a flawless change record across three years of weekend maintenance windows.
+Specialized in IOS-XR software upgrades — a high-complexity operation avoided by many engineers — delivering consistent, outage-free results. Supported decommissioning operations and infrastructure lifecycle management across a large-scale, globally distributed network.
 
 ### IPv6 Test Engineer - Cisco
 
@@ -89,11 +90,9 @@ Jun 2016 – Jul 2020
 
 Research Triangle Park, NC
 
-Responsible for helping Cisco products achieve two IPv6 certifications: USGv6 and IPv6 Ready Logo.
+Description: Supported Cisco's Security and Trust Organization in achieving and maintaining two critical IPv6 certifications: USGv6 and IPv6 Ready Logo. USGv6 is a US government procurement standard directly tied to federal purchasing eligibility across defense and civilian agencies, representing significant public sector revenue. IPv6 Ready Logo is the industry-standard certification validating protocol correctness across a suite of 300+ tests covering SLAAC, neighbor discovery, and core IPv6 fundamentals.
 
-USGv6 is a collection of purchasing requirements the US government uses for IPv6 readiness — many federal departments require this certification to procure equipment, making it directly tied to millions of dollars in public sector deals. IPv6 Ready Logo is the industry standard certification, covering fundamentals like SLAAC, neighbor discovery, and protocol correctness across a suite of 300+ tests.
-
-Day-to-day work included managing the IPv6 testing infrastructure, automating tests, testing equipment, and advocating for IPv6 readiness across the company.
+Day-to-day responsibilities included managing IPv6 testing infrastructure, developing and automating test suites, validating Cisco products against certification requirements, and advocating for IPv6 readiness across internal engineering teams. Maintained external industry engagement through participation in networking conferences and standards community events.
 
 ### IOS-XR CSE - Cisco
 
@@ -103,7 +102,7 @@ Apr 2015 – Jul 2016
 
 Research Triangle Park, NC
 
-Continued TAC and IOS-XR support work. See earlier IOS-XR role for full scope.
+Description: Continued Tier 3 TAC support for IOS-XR platforms with a focus on ISP customers running CRS and XR 12000 series equipment. Core case work centered on MPLS, L3VPN, and SP-grade routing environments. Maintained the same end-to-end case ownership model and WAN specialization established in the earlier role.
 
 ### Network Engineer — Secant Technologies
 
@@ -125,11 +124,9 @@ Jul 2012 – Oct 2014
 
 Morrisville, NC
 
-Part of a global team providing 24/7 support to customers running Cisco IOS-XR equipment — CRS, NCS6000 for core, ASR9000 for edge, and XRv as a virtual platform. Customers were typically ISPs and large enterprises requiring high-density, fault-tolerant routing at line-rate, with link speeds from 1Gbps to 100Gbps including G.709, DWDM, and TDM.
+Description: Part of a global team providing 24/7 Tier 3 support to ISPs and large enterprises running Cisco IOS-XR platforms — CRS and NCS 6000 for core routing, ASR 9000 for edge, and XRv as a virtual platform. Supported high-density, fault-tolerant environments operating at line rate across link speeds from 1Gbps to 100Gbps, including G.709, DWDM, and TDM transport.
 
-Support engineers owned cases end-to-end: updating documentation, filing bugs, engaging escalation resources, and managing a backlog. Setting correct expectations and delivering on them was central to the role.
-
-Keywords: ATM, BGP, CEF, CEM, DHCP, DSL, DWDM, EIGRP, Ethernet, Frame Relay, GRE, HSRP, IGMP, IPv4, IPv6, IS-IS, L2VPN, L3VPN, LDP, MPLS, Multicast, OSPF, PIM, PPP, PPPoE, QoS, RADIUS, RIP, SNMP, SONET, SSH, STP, T1/T3, TCL, TDM, VRRP, VTP.
+Owned cases end-to-end: reproducing complex faults, filing bugs, engaging escalation resources, updating documentation, and managing an active backlog — with an emphasis on setting accurate customer expectations and delivering on them. Specialized in WAN technologies including MPLS, L3VPN, and arcane but business-critical protocols such as Circuit Emulation Service (CEM) and Multilink PPP — serving as one of the only engineers on the team with deep CEM expertise.
 
 ### IT Consultant - Bronson Hospital
 
@@ -288,6 +285,4 @@ Min latency(s):         0.0187221
 
 -----
 
-v1.13
-
-© Ariadne Haske
+v1.18 - © Ariadne Haske

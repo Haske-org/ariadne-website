@@ -19,7 +19,6 @@ font-size   = "0.9em"
 separator   = " • "
 date-format = "%Y-%m-%d"
 time-format = "%H:%M:%S"
-branch      = "main"
 hyperlink   = true  # make hash/branch clickable when possible
 
 # optional timezone handling
