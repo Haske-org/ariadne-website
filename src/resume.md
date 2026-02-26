@@ -28,46 +28,23 @@ In my free time I do ... more customer service stuff, just for different things:
 
 **Keywords:** Stuff I worked on. I'm not an expert in any of these things, my primary skill is becoming conversant enough with any network tech to reach case resolution.
 
-### Wireless TCE - Cisco
+### Technical Customer Engineer - Cisco
 
 Cisco - CX Org - Expert Care National - HTTS
 
 Contract via TEKSystems
 
-Nov 2025 – Mar 2026
+May 2024 – Mar 2026
 
 Remote
 
-Description: Provided Tier 3 technical support for public sector and enterprise wireless networks across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, handling P1 through P3 cases — including network-down situations — with direct escalation paths to engineering.
+Description: Provided Tier 3 technical support for public sector and enterprise customers across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, with direct escalation paths to engineering.
 
-Specialized in the Catalyst 9800 WLC platform across all form factors — C9800-L, C9800-40, C9800-80, and C9800-CL — with hands-on experience in High Availability/SSO, N+1 redundancy, ISSU, and rolling AP upgrades. Troubleshot complex deployments spanning FlexConnect, Local mode, Monitor mode, and SE-Connect, including site, policy, and RF tag architecture, RRM, DCA, and CleanAir. Supported 802.1X and ISE integrations, OFDMA, 6 GHz band deployments, dual 5 GHz configurations, and Flexible Radio Assignment.
+**Route/Switch (May 2024 – Nov 2024):** Supported HTTS customers on the Catalyst 9000 switching platform across all form factors — C9200, C9300, C9400, C9500, and C9600 — including StackWise and StackWise Virtual high availability deployments. Troubleshot complex IOS-XE environments spanning hardware and software faults and UADP ASIC behavior.
 
-### After Hours TCE - Cisco
+**After Hours (Nov 2024 – Nov 2025):** One of two engineers providing Tier 3 coverage across the full Cisco portfolio on the after-hours shift, handling only high-severity cases — including network-down situations — while collaborating with global TAC teams.
 
-Cisco - CX Org - Expert Care National - HTTS
-
-Contract via TEKSystems
-
-Nov 2024 - Nov 2025
-
-Remote
-
-Description: One of two engineers providing Tier 3 technical support across the full Cisco portfolio for public sector and enterprise customers in the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions on the after-hours shift, handling only high-severity cases — including network-down situations — while collaborating with global TAC teams and maintaining direct escalation paths to engineering.
-
-### Route/Switch TCE - Cisco
-
-Cisco - CX Org - Expert Care National - HTTS
-
-Contract via TEKSystems
-
-May 2024 – Nov 2024
-
-Remote
-
-Supporting HTTS customers for route/switch. Getting up-to-speed to work the after hours shift.
-
-Description: Provided Tier 3 technical support for public sector and enterprise switching networks across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, handling P1 through P3 cases — including network-down situations — with direct escalation paths to engineering.
-Deep hands-on expertise with the Catalyst 9000 switching platform across all form factors (C9200, C9300, C9400, C9500, C9600), including StackWise and StackWise Virtual high availability deployments. Troubleshot complex IOS-XE environments spanning hardware and software faults, UADP ASIC behavior, and enterprise campus network architectures.
+**Wireless (Nov 2025 – Mar 2026):** Specialized in the Catalyst 9800 WLC platform across all form factors — C9800-L, C9800-40, C9800-80, and C9800-CL — with hands-on experience in High Availability/SSO, N+1 redundancy, ISSU, and rolling AP upgrades. Troubleshot complex deployments spanning FlexConnect, Local mode, Monitor mode, and SE-Connect, including site, policy, and RF tag architecture, RRM, DCA, and CleanAir. Supported 802.1X and ISE integrations, OFDMA, 6 GHz band deployments, dual 5 GHz configurations, and Flexible Radio Assignment.
 
 ### Network Engineer - Bank of America
 
@@ -285,4 +262,4 @@ Min latency(s):         0.0187221
 
 -----
 
-v1.18 - © Ariadne Haske
+v1.19 - © Ariadne Haske
