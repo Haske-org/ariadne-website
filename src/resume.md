@@ -38,7 +38,7 @@ May 2024 – Mar 2026
 
 Remote
 
-Description: Provided Tier 3 technical support for public sector and enterprise customers across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, with direct escalation paths to engineering.
+Provided Tier 3 technical support for public sector and enterprise customers across the United States and internationally, operating within Cisco's Expert Care High Touch Technical Support organization. Supported mission-critical environments including federal agencies and healthcare institutions, with direct escalation paths to engineering.
 
 **Route/Switch (May 2024 – Nov 2024):** Supported HTTS customers on the Catalyst 9000 switching platform across all form factors — C9200, C9300, C9400, C9500, and C9600 — including StackWise and StackWise Virtual high availability deployments. Troubleshot complex IOS-XE environments spanning hardware and software faults and UADP ASIC behavior.
 
@@ -56,7 +56,7 @@ Feb 2021 – May 2024
 
 Remote
 
-Description: Provided network engineering support for Bank of America's global core network infrastructure, operating within a high-stakes environment where network availability and change accuracy were the highest priorities. Executed maintenance operations on ASR 9000 series routers providing core connectivity to all Bank of America sites worldwide, with a flawless change record across three years of weekend maintenance windows.
+Provided network engineering support for Bank of America's global core network infrastructure, operating within a high-stakes environment where network availability and change accuracy were the highest priorities. Executed maintenance operations on ASR 9000 series routers providing core connectivity to all Bank of America sites worldwide, with a flawless change record across three years of weekend maintenance windows.
 Specialized in IOS-XR software upgrades — a high-complexity operation avoided by many engineers — delivering consistent, outage-free results. Supported decommissioning operations and infrastructure lifecycle management across a large-scale, globally distributed network.
 
 ### IPv6 Test Engineer - Cisco
@@ -67,7 +67,7 @@ Jun 2016 – Jul 2020
 
 Research Triangle Park, NC
 
-Description: Supported Cisco's Security and Trust Organization in achieving and maintaining two critical IPv6 certifications: USGv6 and IPv6 Ready Logo. USGv6 is a US government procurement standard directly tied to federal purchasing eligibility across defense and civilian agencies, representing significant public sector revenue. IPv6 Ready Logo is the industry-standard certification validating protocol correctness across a suite of 300+ tests covering SLAAC, neighbor discovery, and core IPv6 fundamentals.
+Supported Cisco's Security and Trust Organization in achieving and maintaining two critical IPv6 certifications: USGv6 and IPv6 Ready Logo. USGv6 is a US government procurement standard directly tied to federal purchasing eligibility across defense and civilian agencies, representing significant public sector revenue. IPv6 Ready Logo is the industry-standard certification validating protocol correctness across a suite of 300+ tests covering SLAAC, neighbor discovery, and core IPv6 fundamentals.
 
 Day-to-day responsibilities included managing IPv6 testing infrastructure, developing and automating test suites, validating Cisco products against certification requirements, and advocating for IPv6 readiness across internal engineering teams. Maintained external industry engagement through participation in networking conferences and standards community events.
 
@@ -79,7 +79,7 @@ Apr 2015 – Jul 2016
 
 Research Triangle Park, NC
 
-Description: Continued Tier 3 TAC support for IOS-XR platforms with a focus on ISP customers running CRS and XR 12000 series equipment. Core case work centered on MPLS, L3VPN, and SP-grade routing environments. Maintained the same end-to-end case ownership model and WAN specialization established in the earlier role.
+Continued Tier 3 TAC support for IOS-XR platforms with a focus on ISP customers running CRS and XR 12000 series equipment. Core case work centered on MPLS, L3VPN, and SP-grade routing environments. Maintained the same end-to-end case ownership model and WAN specialization established in the earlier role.
 
 ### Network Engineer — Secant Technologies
 
@@ -101,7 +101,7 @@ Jul 2012 – Oct 2014
 
 Morrisville, NC
 
-Description: Part of a global team providing 24/7 Tier 3 support to ISPs and large enterprises running Cisco IOS-XR platforms — CRS and NCS 6000 for core routing, ASR 9000 for edge, and XRv as a virtual platform. Supported high-density, fault-tolerant environments operating at line rate across link speeds from 1Gbps to 100Gbps, including G.709, DWDM, and TDM transport.
+Part of a global team providing 24/7 Tier 3 support to ISPs and large enterprises running Cisco IOS-XR platforms — CRS and NCS 6000 for core routing, ASR 9000 for edge, and XRv as a virtual platform. Supported high-density, fault-tolerant environments operating at line rate across link speeds from 1Gbps to 100Gbps, including G.709, DWDM, and TDM transport.
 
 Owned cases end-to-end: reproducing complex faults, filing bugs, engaging escalation resources, updating documentation, and managing an active backlog — with an emphasis on setting accurate customer expectations and delivering on them. Specialized in WAN technologies including MPLS, L3VPN, and arcane but business-critical protocols such as Circuit Emulation Service (CEM) and Multilink PPP — serving as one of the only engineers on the team with deep CEM expertise.
 
@@ -177,23 +177,25 @@ It's important to have a toybox, so here is my hypervisor setup. 1-3 are prod, 4
 ```bash
 ariadne@tiny-4:~$ sudo pvesh get /nodes
 
-┌────────┬────────┬────────┬───────┬────────┬───────────┬───────────┬────────────────┬────────┐
-│ node   │ status │    cpu │ level │ maxcpu │    maxmem │       mem │ ssl_fingerprint│ uptime │
-╞════════╪════════╪════════╪═══════╪════════╪═══════════╪═══════════╪════════════════╪════════╡
-│ tiny-1 │ online │  2.13% │       │      4 │ 15.53 GiB │  2.56 GiB │ redacted       │ 2w 22h │
-├────────┼────────┼────────┼───────┼────────┼───────────┼───────────┼────────────────┼────────┤
-│ tiny-2 │ online │  5.11% │       │      4 │ 15.53 GiB │  9.94 GiB │ redacted       │ 2w 22h │
-├────────┼────────┼────────┼───────┼────────┼───────────┼───────────┼────────────────┼────────┤
-│ tiny-3 │ online │  4.11% │       │      4 │ 15.53 GiB │  7.46 GiB │ redacted       │ 2w 22h │
-├────────┼────────┼────────┼───────┼────────┼───────────┼───────────┼────────────────┼────────┤
-│ tiny-4 │ online │  2.19% │       │     12 │ 62.67 GiB │ 11.14 GiB │ redacted       │ 2w 22h │
-├────────┼────────┼────────┼───────┼────────┼───────────┼───────────┼────────────────┼────────┤
-│ tiny-5 │ online │  1.03% │       │     12 │ 62.67 GiB │ 10.37 GiB │ redacted       │ 2w 23h │
-├────────┼────────┼────────┼───────┼────────┼───────────┼───────────┼────────────────┼────────┤
-│ tiny-6 │ online │  0.93% │       │     12 │ 62.67 GiB │  8.15 GiB │ redacted       │ 2w 23h │
-├────────┼────────┼────────┼───────┼────────┼───────────┼───────────┼────────────────┼────────┤
-│ tiny-7 │ online │ 11.06% │       │     12 │ 62.67 GiB │ 17.45 GiB │ redacted       │ 2w 22h │
-└────────┴────────┴────────┴───────┴────────┴───────────┴───────────┴────────────────┴────────┘
+[modified for brevity]
+
+┌────────┬────────┬────────┬────────┬───────────┬───────────┬────────────────┬────────┐
+│ node   │ status │    cpu │ maxcpu │    maxmem │       mem │ ssl_fingerprint│ uptime │
+╞════════╪════════╪════════╪════════╪═══════════╪═══════════╪════════════════╪════════╡
+│ tiny-1 │ online │  2.13% │      4 │ 15.53 GiB │  2.56 GiB │ redacted       │ 2w 22h │
+├────────┼────────┼────────┼────────┼───────────┼───────────┼────────────────┼────────┤
+│ tiny-2 │ online │  5.11% │      4 │ 15.53 GiB │  9.94 GiB │ redacted       │ 2w 22h │
+├────────┼────────┼────────┼────────┼───────────┼───────────┼────────────────┼────────┤
+│ tiny-3 │ online │  4.11% │      4 │ 15.53 GiB │  7.46 GiB │ redacted       │ 2w 22h │
+├────────┼────────┼────────┼────────┼───────────┼───────────┼────────────────┼────────┤
+│ tiny-4 │ online │  2.19% │     12 │ 62.67 GiB │ 11.14 GiB │ redacted       │ 2w 22h │
+├────────┼────────┼────────┼────────┼───────────┼───────────┼────────────────┼────────┤
+│ tiny-5 │ online │  1.03% │     12 │ 62.67 GiB │ 10.37 GiB │ redacted       │ 2w 23h │
+├────────┼────────┼────────┼────────┼───────────┼───────────┼────────────────┼────────┤
+│ tiny-6 │ online │  0.93% │     12 │ 62.67 GiB │  8.15 GiB │ redacted       │ 2w 23h │
+├────────┼────────┼────────┼────────┼───────────┼───────────┼────────────────┼────────┤
+│ tiny-7 │ online │ 11.06% │     12 │ 62.67 GiB │ 17.45 GiB │ redacted       │ 2w 22h │
+└────────┴────────┴────────┴────────┴───────────┴───────────┴────────────────┴────────┘
 ```
 
 ### Ceph
@@ -262,4 +264,4 @@ Min latency(s):         0.0187221
 
 -----
 
-v1.19 - © Ariadne Haske
+v1.20 - © Ariadne Haske
